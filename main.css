@@ -47,7 +47,9 @@
 }
 
 /* Contact section */
-
+#contact-box form {
+    width: 50%;
+}
 
 /* footer */
 
@@ -67,6 +69,6 @@
 }
 .submit {
     margin: 15px auto;
-    padding: 4px 12px;
-    font-size: 14px;
+    padding: 3px 7px;
+    font-size: 12px;
 }
